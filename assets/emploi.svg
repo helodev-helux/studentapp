@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="600"
+   height="600"
+   viewBox="0 0 600 600"
+   preserveAspectRatio="xMidYMid meet"
+   version="1.1"
+   id="svg3863"
+   sodipodi:docname="emploi.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   inkscape:export-filename="F:\React\Aiac\assets\emploi.png"
+   inkscape:export-xdpi="64"
+   inkscape:export-ydpi="64">
+  <title
+     id="title3871">emploi</title>
+  <metadata
+     id="metadata3869">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>emploi</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>OUSMANE MOUSSA Ismael</dc:title>
+          </cc:Agent>
+        </dc:creator>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3867" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="715"
+     id="namedview3865"
+     showgrid="false"
+     inkscape:zoom="0.91"
+     inkscape:cx="249.45055"
+     inkscape:cy="301.81637"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3863" />
+  <rect
+     id="svgEditorBackground"
+     x="0"
+     y="60"
+     width="900"
+     height="540"
+     style="fill:none;stroke:none" />
+  <rect
+     x="0.40142116"
+     y="0.42751917"
+     style="fill:#0000ff;stroke:#0000ff;stroke-width:0.86102879px;stroke-opacity:1"
+     id="e1_rectangle"
+     width="599.18317"
+     height="600.66028" />
+  <rect
+     x="106.97603"
+     y="60.06385"
+     style="fill:#0000ff;stroke:#ffffff;stroke-width:4.61348009px"
+     id="e2_rectangle"
+     width="398.15741"
+     height="331.47934" />
+  <rect
+     x="132.79596"
+     y="88.537766"
+     style="fill:#0000ff;stroke:#ffffff;stroke-width:1.55509996px"
+     id="e3_rectangle"
+     width="345.23221"
+     height="79.310097" />
+  <line
+     id="e4_line"
+     x1="304.31314"
+     y1="88.537766"
+     x2="304.31314"
+     y2="166.29276"
+     style="fill:none;stroke:#ffffff;stroke-width:1.55509996px" />
+  <line
+     id="e5_line"
+     x1="322.14514"
+     y1="109.21026"
+     x2="444.99802"
+     y2="109.21026"
+     style="fill:none;stroke:#ffffff;stroke-width:1.55509996px" />
+  <line
+     id="e2_line"
+     x1="324.15643"
+     y1="146.26297"
+     x2="447.00934"
+     y2="146.26297"
+     style="fill:none;stroke:#ffffff;stroke-width:1.55509996px" />
+  <line
+     id="e1_line"
+     x1="150.62793"
+     y1="148.77069"
+     x2="273.48083"
+     y2="148.77069"
+     style="fill:none;stroke:#ffffff;stroke-width:1.55509996px" />
+  <line
+     id="e3_line"
+     x1="149.34253"
+     y1="111.09813"
+     x2="272.19543"
+     y2="111.09813"
+     style="fill:none;stroke:#ffffff;stroke-width:1.55509996px" />
+  <rect
+     x="131.05434"
+     y="191.81706"
+     style="fill:#0000ff;stroke:#ffffff;stroke-width:1.55509996px"
+     id="e4_rectangle"
+     width="345.23221"
+     height="79.310097" />
+  <line
+     id="e6_line"
+     x1="302.57153"
+     y1="192.27327"
+     x2="302.57153"
+     y2="268.47314"
+     style="fill:none;stroke:#ffffff;stroke-width:1.55509996px" />
+  <line
+     id="e7_line"
+     x1="147.87605"
+     y1="214.68736"
+     x2="270.72897"
+     y2="214.68736"
+     style="fill:none;stroke:#ffffff;stroke-width:1.55509996px" />
+  <line
+     id="e8_line"
+     x1="327.90933"
+     y1="213.27855"
+     x2="450.76227"
+     y2="213.27855"
+     style="fill:none;stroke:#ffffff;stroke-width:1.55509996px" />
+  <line
+     id="e9_line"
+     x1="149.98524"
+     y1="250.9511"
+     x2="272.83813"
+     y2="250.9511"
+     style="fill:none;stroke:#ffffff;stroke-width:1.55509996px" />
+  <line
+     id="e10_line"
+     x1="328.91962"
+     y1="249.99846"
+     x2="451.77252"
+     y2="249.99846"
+     style="fill:none;stroke:#ffffff;stroke-width:1.55509996px" />
+  <rect
+     x="126.20255"
+     y="293.99747"
+     style="fill:#0000ff;stroke:#ffffff;stroke-width:1.55509996px"
+     id="e5_rectangle"
+     width="345.23221"
+     height="79.310097" />
+  <line
+     id="e11_line"
+     x1="302.11536"
+     y1="293.99747"
+     x2="302.11536"
+     y2="371.75247"
+     style="fill:none;stroke:#ffffff;stroke-width:1.55509996px" />
+  <line
+     id="e12_line"
+     x1="324.34296"
+     y1="319.06555"
+     x2="447.19583"
+     y2="319.06555"
+     style="fill:none;stroke:#ffffff;stroke-width:1.55509996px" />
+  <line
+     id="e13_line"
+     x1="324.15643"
+     y1="351.72266"
+     x2="447.00934"
+     y2="351.72266"
+     style="fill:none;stroke:#ffffff;stroke-width:1.55509996px" />
+  <line
+     id="e14_line"
+     x1="148.43013"
+     y1="320.16446"
+     x2="271.28302"
+     y2="320.16446"
+     style="fill:none;stroke:#ffffff;stroke-width:1.55509996px" />
+  <line
+     id="e15_line"
+     x1="147.14473"
+     y1="353.27777"
+     x2="269.99762"
+     y2="353.27777"
+     style="fill:none;stroke:#ffffff;stroke-width:1.55509996px" />
+  <text
+     style="font-size:74.58422089px;font-family:Arial;fill:#ffffff;stroke-width:1.49168444"
+     x="180.89999"
+     y="430.40994"
+     id="e6_texte"
+     transform="scale(0.93466521,1.0699018)">
+    <tspan
+       x="180.89999"
+       id="tspan3858"
+       style="stroke-width:1.49168444">EMPLOI</tspan>
+  </text>
+  <text
+     style="font-size:72.53407288px;font-family:Arial;fill:#ffffff;stroke-width:1.45068157"
+     x="131.01877"
+     y="488.12"
+     id="e2_texte"
+     transform="scale(0.92603062,1.0798779)">
+    <tspan
+       x="131.01877"
+       id="e2_tspan"
+       style="stroke-width:1.45068157">DU TEMPS</tspan>
+  </text>
+</svg>

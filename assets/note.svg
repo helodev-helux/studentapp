@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="600"
+   height="600"
+   viewBox="0 0 600 600"
+   preserveAspectRatio="xMidYMid meet"
+   version="1.1"
+   id="svg3945"
+   sodipodi:docname="note.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   inkscape:export-filename="F:\React\Aiac\assets\note.png"
+   inkscape:export-xdpi="64"
+   inkscape:export-ydpi="64">
+  <title
+     id="title3953">emploi</title>
+  <metadata
+     id="metadata3951">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>emploi</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>OUSMANE MOUSSA ISMAEL</dc:title>
+          </cc:Agent>
+        </dc:creator>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3949" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="715"
+     id="namedview3947"
+     showgrid="false"
+     inkscape:zoom="0.64"
+     inkscape:cx="344.24708"
+     inkscape:cy="390.36933"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3945" />
+  <rect
+     id="svgEditorBackground"
+     x="0"
+     y="100"
+     width="900"
+     height="500"
+     style="fill:none;stroke:none" />
+  <rect
+     x="0.53930283"
+     y="0.20886478"
+     style="fill:#1e90ff;stroke:#1e90ff;stroke-width:0.89734572px;stroke-opacity:1"
+     id="e1_rectangle"
+     width="599.83093"
+     height="601.00732" />
+  <rect
+     x="144.27469"
+     y="57.505493"
+     style="fill:#1e90ff;stroke:#ffffff;stroke-width:3px"
+     id="e2_rectangle"
+     width="274"
+     height="298" />
+  <rect
+     x="398.27475"
+     y="101.08791"
+     style="fill:#1e90ff;stroke:#1e90ff;stroke-width:1px"
+     id="e3_rectangle"
+     width="31"
+     height="215" />
+  <line
+     id="e4_line"
+     x1="237.85715"
+     y1="102.18681"
+     x2="448.85715"
+     y2="102.18681"
+     style="fill:none;stroke:#ffffff;stroke-width:2px" />
+  <line
+     id="e2_line"
+     x1="238.95604"
+     y1="144.7912"
+     x2="449.95602"
+     y2="144.7912"
+     style="fill:none;stroke:#ffffff;stroke-width:2px" />
+  <line
+     id="e1_line"
+     x1="240.15385"
+     y1="185.69231"
+     x2="451.15381"
+     y2="185.69231"
+     style="fill:none;stroke:#ffffff;stroke-width:2px" />
+  <line
+     id="e3_line"
+     x1="237.95604"
+     y1="229.79121"
+     x2="448.95602"
+     y2="229.79121"
+     style="fill:none;stroke:#ffffff;stroke-width:2px" />
+  <line
+     id="e5_line"
+     x1="241.35165"
+     y1="274.1868"
+     x2="452.35165"
+     y2="274.1868"
+     style="fill:none;stroke:#ffffff;stroke-width:2px" />
+  <line
+     id="e6_line"
+     x1="242.25275"
+     y1="315.08789"
+     x2="453.25275"
+     y2="315.08789"
+     style="fill:none;stroke:#ffffff;stroke-width:2px" />
+  <text
+     style="font-size:71.33994293px;font-family:Arial;fill:#ffffff;stroke-width:1.78349864"
+     x="178.10471"
+     y="408.073"
+     id="e5_texte"
+     transform="scale(0.91057546,1.0982066)">NOTES</text>
+  <text
+     style="font-size:72.67827606px;font-family:Arial;fill:#ffffff;stroke-width:1.816957"
+     x="91.079697"
+     y="462.26361"
+     id="e14_texte"
+     transform="scale(0.89380769,1.1188089)">ET MODULES</text>
+</svg>

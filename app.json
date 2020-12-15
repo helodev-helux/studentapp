@@ -1,0 +1,42 @@
+{
+  "expo": {
+    "name": "Aiac",
+    "slug": "Aiac",
+    "privacy": "public",
+    "sdkVersion": "35.0.0",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "androidStatusBar":{
+      "barStyle":"light-content",
+      "backgroundColor":"#000000"
+  },
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+	"android": {
+      "package": "com.microisce.aiac"
+      
+              
+            },
+
+    "ios": {
+      "supportsTablet": true
+    },
+    "packagerOpts": {
+      "config": "metro.config.js"
+      }
+  }
+}
